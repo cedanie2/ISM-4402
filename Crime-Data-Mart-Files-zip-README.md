@@ -4,3 +4,17 @@ These files include the source data, SQL Server Integrations Services Package (V
     Data Mart Design - Table Construction: https://www.youtube.com/watch?v=feGmEAcMEBE
     Data Mart Design - ETL Process to Populate Staging Table: https://www.youtube.com/watch?v=XVms0SA-6Xs
     Data Mart Design - Populate Dimensions and Fact Tables: https://www.youtube.com/watch?v=ZabXH-QSRsA
+
+Additional videos that cover Data Mart Design methodology are covered here. The methodology is described within the context of the Crime Data Mart. 
+
+Data Mart Design Part 1: https://www.youtube.com/watch?v=BpsQfc4TjAo
+
+Data Mart Design Part 2: https://www.youtube.com/watch?v=20TCAFYdnmk
+
+Data Mart Design Part 3: https://www.youtube.com/watch?v=we34l6jubWM
+
+Data Mart Design Part 4.1: https://www.youtube.com/watch?v=qIbQLjqkkVk
+
+Data Mart DesignPart 4.2: https://www.youtube.com/watch?v=7d0PY2hxZkY
+
+Data Mart Design Part 5: https://www.youtube.com/watch?v=ExJ2j1aM20k
