@@ -1,5 +1,5 @@
 # Crime Data Mart Files Zip
-These files include the source data, SQL Server Integrations Services Package (Visual Studio 2017), and SQL scripts required to create the Crime Data Mart. The Crime Data Mart Design is demonstrated in the following YouTube Videos:
+These files include the source data, SQL Server Integrations Services Package (Visual Studio 2017), and SQL scripts required to create the Crime Data Mart. Read the "Crime-DataMart-Design-Setup-Instructions.docx" document for detailed instructions on setting up the Data Mart on your Microsoft SQL Server instance. The Crime Data Mart Design is demonstrated in the following YouTube Videos:
 
     Data Mart Design - Table Construction: https://www.youtube.com/watch?v=feGmEAcMEBE
     Data Mart Design - ETL Process to Populate Staging Table: https://www.youtube.com/watch?v=XVms0SA-6Xs
